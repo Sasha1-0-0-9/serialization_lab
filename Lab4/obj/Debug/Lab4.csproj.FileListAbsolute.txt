@@ -1,0 +1,13 @@
+D:\oop_labs\Lab4\Lab4\bin\Debug\Lab4.exe.config
+D:\oop_labs\Lab4\Lab4\bin\Debug\Lab4.exe
+D:\oop_labs\Lab4\Lab4\bin\Debug\Lab4.pdb
+D:\oop_labs\Lab4\Lab4\obj\Debug\Lab4.csprojAssemblyReference.cache
+D:\oop_labs\Lab4\Lab4\obj\Debug\Lab4.ArticleInfo.resources
+D:\oop_labs\Lab4\Lab4\obj\Debug\Lab4.AuthorInfo.resources
+D:\oop_labs\Lab4\Lab4\obj\Debug\Lab4.Form1.resources
+D:\oop_labs\Lab4\Lab4\obj\Debug\Lab4.JournalInfo.resources
+D:\oop_labs\Lab4\Lab4\obj\Debug\Lab4.Properties.Resources.resources
+D:\oop_labs\Lab4\Lab4\obj\Debug\Lab4.csproj.GenerateResource.cache
+D:\oop_labs\Lab4\Lab4\obj\Debug\Lab4.csproj.CoreCompileInputs.cache
+D:\oop_labs\Lab4\Lab4\obj\Debug\Lab4.exe
+D:\oop_labs\Lab4\Lab4\obj\Debug\Lab4.pdb

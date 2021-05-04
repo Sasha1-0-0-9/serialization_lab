@@ -1,0 +1,34 @@
+﻿<Journals>
+  <Journal>
+    <Name>Forbes</Name>
+    <Periodicity>EveryWeek</Periodicity>
+    <Articles>
+      <Article>
+        <Author>
+          <FirstName>Oleksandr</FirstName>
+          <LastName>Pysmennyi</LastName>
+          <Birthday>23.01.1754 00:00:00</Birthday>
+        </Author>
+        <Title>Vetal54 about his success</Title>
+        <PagesNumber>47</PagesNumber>
+        <Honorarium>47</Honorarium>
+      </Article>
+    </Articles>
+  </Journal>
+  <Journal>
+    <Name>Vetal54</Name>
+    <Periodicity>EveryQuarter</Periodicity>
+    <Articles>
+      <Article>
+        <Author>
+          <FirstName>Vetal</FirstName>
+          <LastName>54</LastName>
+          <Birthday>27.04.2021 00:00:00</Birthday>
+        </Author>
+        <Title>123</Title>
+        <PagesNumber>213</PagesNumber>
+        <Honorarium>3456</Honorarium>
+      </Article>
+    </Articles>
+  </Journal>
+</Journals>
